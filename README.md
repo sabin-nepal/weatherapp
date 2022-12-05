@@ -1,15 +1,17 @@
 # weatherapp
 
-A new Flutter project.
+View Weather based on your current location.
+
+You can also add the location to view the temperature of that particular location
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Clone the repository 
+- Run flutter pub get
+- Run flutter run command to debug the app on your emulator/simulator
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This app is tested for both android and ios. 
 
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
